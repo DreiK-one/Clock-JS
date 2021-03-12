@@ -1,0 +1,22 @@
+body{
+	font-family: "Open Sans";
+	margin-top: 300px;
+	text-align: center;
+	background-image: url(http://wallpapers-images.ru/1600x900/winter/wallpapers-1600x900/13.jpg);
+}
+
+#clock{
+	font-weight: 300;
+	font-size: 120px;
+	color: white;
+}
+
+img{
+	width: 100px;
+	height: 100px;
+	
+}
+
+.raz{
+	margin-left: 100px;
+}
