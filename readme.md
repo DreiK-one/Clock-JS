@@ -1,3 +1,3 @@
-#Git and GitHub Course
+#Clock
 
-Crash course for Git
+Animated clock with own pictures
